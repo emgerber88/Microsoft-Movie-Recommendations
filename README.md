@@ -9,7 +9,9 @@ Microsoft sees all the big companies creating original video content and they wa
 
 ## Data Sources and Methods
 
-Financial data used in this notebook is drawn from The Numbers (http://www.the-numbers.com/). Basic movie information is drawn from the Internet Movie Database (IMDB, http://www.imdb.com/). We begin by cleaning our data to create a dataset that includes movies from 2012 to 2019 - beginning with the year Netflix released its first original, and ending with the final full year before the COVID-19 pandemic disrupted the movie industry. We used descriptive analysis, including tables, visualizations, and rankings to dig into the relationships between production budget, profit, and genre.
+Financial data used in this notebook is drawn from The Numbers (http://www.the-numbers.com/). Basic movie information is drawn from the Internet Movie Database (IMDB, http://www.imdb.com/). We begin by cleaning our data to create a dataset that includes movies from 2012 to 2019 - beginning with the year Netflix released its first original, and ending with the final full year before the COVID-19 pandemic disrupted the movie industry. We used descriptive analysis, including tables, visualizations, and rankings to dig into the relationships between production budget, profit, and genre.  
+Our final dataset included 1,231 records. The descriptive statistics for the data and numeric columns are below.
+![descriptive_stats](Images/movie_descriptive_stats.png)
 
 ## Results
 
