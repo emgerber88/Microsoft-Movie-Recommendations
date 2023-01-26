@@ -27,6 +27,6 @@ Based on our analysis, we generated four recommendations for Microsoft:
 4. Microsoft should avoid hiring David Gordon Green, Simon West, Kevin Smith, Justin Chadwick, James Gray, Mira Nair, Jacques Audiard, and David Koepp to direct movies for its studio.
 
 ## Links to Materials
-![Presentation](Microsoft_Movie_Studio_Recommendations_Flatiron_Phase1_Project.pptx)
-![Jupyter Notebook](Microsoft_Recs_Work.ipynb)
+[Presentation](Microsoft_Movie_Studio_Recommendations_Flatiron_Phase1_Project.pptx)  
+[Jupyter Notebook](Microsoft_Recs_Work.ipynb)
 
