@@ -22,7 +22,7 @@ Based on our analysis, we generated four recommendations for Microsoft:
 ![profit_ratio_by_genre](Images/profitratio_genre.png)
 
 3. To minimize the risk of significant financial loss from any one movie, Microsoft should avoid making action movies with high budgets.
-![losses_by_category](losses_by_cat.png)
+![losses_by_category](Images/losses_by_cat.png)
 
 4. Microsoft should avoid hiring David Gordon Green, Simon West, Kevin Smith, Justin Chadwick, James Gray, Mira Nair, Jacques Audiard, and David Koepp to direct movies for its studio.
 
